@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(41, 34, 34);
+    padding: 10px;
+}
+
+img {
+    width: 200;
+    height: 100;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    font-size: larger;
+    font-weight: 900;
+    color: bisque;
+}
+
+li, a {
+    text-decoration: none;
+    list-style: none;
+}
+
+a :hover {
+    transition: all 0.3s ease;
+    color: brown;
+}
