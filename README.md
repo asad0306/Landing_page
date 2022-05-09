@@ -1,1 +1,1 @@
-# landin_page
+# landing_page
