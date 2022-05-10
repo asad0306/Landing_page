@@ -28,12 +28,11 @@ ul {
 li, a {
     text-decoration: none;
     list-style: none;
-    color: red;
 }
 
 a :hover {
     transition: all 0.3s ease;
-    color: brown;
+    color: greenyellow;
 }
 
 .BIMG {
