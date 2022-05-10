@@ -28,9 +28,17 @@ ul {
 li, a {
     text-decoration: none;
     list-style: none;
+    color: red;
 }
 
 a :hover {
     transition: all 0.3s ease;
     color: brown;
+}
+
+.BIMG {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    height: 900;
 }
