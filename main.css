@@ -45,3 +45,7 @@ a :hover {
 h1 {
     text-align: center;
 }
+
+.container-2 {
+    display: flex;
+}
