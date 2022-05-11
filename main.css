@@ -32,10 +32,10 @@ li, a {
 
 a :hover {
     transition: all 0.3s ease;
-    color: greenyellow;
+    color: lightskyblue;
 }
 
-.BIMG {
+.Home {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
