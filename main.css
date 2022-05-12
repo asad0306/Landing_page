@@ -34,15 +34,14 @@ li, a {
     list-style: none;
 }
 
-a :hover {
-    transition: all 0.3s ease;
-    color: lightskyblue;
-}
-
 h1 {
     text-align: center;
 }
 
-.container-2 {
+.Home {
     display: flex;
+    flex-wrap: wrap;
+    width: 250px;
+    justify-content: center;
+    align-items: center;
 }
