@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+.container {
+    background-color: #1f2937;
+}
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -33,14 +37,6 @@ li, a {
 a :hover {
     transition: all 0.3s ease;
     color: lightskyblue;
-}
-
-.Home {
-    align-items: center;
-    width: 800;
-    height: 400;
-    background-color: #1f2937;
-
 }
 
 h1 {
