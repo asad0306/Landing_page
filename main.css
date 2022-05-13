@@ -18,7 +18,6 @@ ul, a {
 }
 
 .container {
-
     margin: 0 auto;
     padding: 0 30px;
     background-color: #1f2937;
@@ -38,6 +37,10 @@ ul, a {
     color: #fff;
     font-size: 18px;
     font-weight: bold;
+}
+
+.navbar a:hover {
+    color: lightblue;
 }
 
 .navbar .container {
