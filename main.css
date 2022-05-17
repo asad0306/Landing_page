@@ -87,3 +87,11 @@ ul, a {
     font-weight: bold;
     text-align: center;
 }
+
+.container-1 img {
+    max-width: 250px;
+}
+
+.container-1 {
+    display: flex;
+}
