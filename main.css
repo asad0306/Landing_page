@@ -17,7 +17,7 @@ ul, a {
     text-decoration: none;
 }
 
-.container-1 {
+.container{
     margin: 0 auto;
     padding: 0 30px;
     background-color: #1f2937;
@@ -45,7 +45,7 @@ ul, a {
     color: lightblue;
 }
 
-.navbar .container-1 {
+.navbar .container {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -76,8 +76,14 @@ ul, a {
     max-width: 400px;
 }
 
-.header .container-1 {
+.header .container {
     display: flex;
     align-items: center;
     justify-content: space-around;
+}
+
+.heading {
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
 }
