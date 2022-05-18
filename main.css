@@ -102,9 +102,9 @@ ul, a {
 .info {
     width: 200px;
     flex-wrap: wrap;
+    align-items: center;
 }
 
 .text {
-    text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
