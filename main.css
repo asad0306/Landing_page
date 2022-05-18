@@ -89,9 +89,10 @@ ul, a {
 }
 
 .container-1 img {
-    max-width: 250px;
+    max-width: 200px;
 }
 
 .container-1 {
     display: flex;
+    align-items: center;
 }
