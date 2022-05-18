@@ -103,3 +103,8 @@ ul, a {
     width: 200px;
     flex-wrap: wrap;
 }
+
+.text {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
