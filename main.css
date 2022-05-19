@@ -92,7 +92,6 @@ ul, a {
 .container-1 img {
     max-width: 300px;
     max-height: 300px;
-    border: 15px soild red;
     border-radius: 25px;
 }
 
@@ -105,10 +104,15 @@ ul, a {
 .info {
     width: 250px;
     flex-wrap: wrap;
+    align-items: center;
 }
 
 .text {
     font-family: 'Courier New', Courier, monospace;
-    align-items: center;
+    text-align: center
     margin-top: 15px;
+}
+
+img {
+    border: 3px solid rebeccapurple;
 }
