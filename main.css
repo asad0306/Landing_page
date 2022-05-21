@@ -162,6 +162,10 @@ button {
     padding: 5px;
 }
 
+button:hover {
+    color: greenyellow;
+}
+
 .footer {
     background-color: #1f2937;
     padding: 20px;
