@@ -88,7 +88,7 @@ ul, a {
     margin: 20px;
     color: #1f2937;
     font-weight: bolder;
-    font-size: 36px;
+    font-size: 36px ;
 }
 
 .container-1 img {
@@ -131,3 +131,10 @@ ul, a {
     align-items: center;
     line-height: 2.5;
 }
+
+.sign {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882f6;
+} 
