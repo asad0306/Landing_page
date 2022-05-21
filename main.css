@@ -148,13 +148,18 @@ ul, a {
     justify-content: space-around;
     align-items: center;
     background-color: #3882f6;
-    padding: 40px;
-    margin: 60px;
+    padding: 60px;
+    margin: 60px 250px;
+    border-radius: 10px;
+    color: #e5e7eb;
+    font-size: 23px;
 } 
 
-.right{ 
-    display: flex;
-    align-items: center;
+button {
+    font-size: 20px;
+    border: 2px solid #1f2937;
+    border-radius: 5px;
+    padding: 5px;
 }
 
 .footer {
