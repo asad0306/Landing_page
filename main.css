@@ -130,13 +130,28 @@ ul, a {
     justify-content: center;
     align-items: center;
     line-height: 2.5;
+    margin: 20px 0 20px 0;
 }
 
 .sign {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     background-color: #3882f6;
     padding: 40px;
     margin: 60px;
 } 
+
+.right{ 
+    display: flex;
+    align-items: center;
+}
+
+.footer {
+    background-color: #1f2937;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: #e5e7eb;
+}
