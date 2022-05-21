@@ -138,6 +138,11 @@ ul, a {
     flex-wrap: wrap;
 }
 
+.bold {
+    display: flex;
+    justify-content: end;
+}
+
 .sign {
     display: flex;
     justify-content: space-around;
