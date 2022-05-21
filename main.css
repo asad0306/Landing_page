@@ -24,6 +24,11 @@ ul, a {
     max-width: 100%;
 }
 
+.container p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
 .navbar {
     background-color: #1f2937;
     height: 60px;
@@ -129,8 +134,8 @@ ul, a {
     display: flex;
     justify-content: center;
     align-items: center;
-    line-height: 2.5;
     margin: 20px 0 20px 0;
+    flex-wrap: wrap;
 }
 
 .sign {
@@ -152,6 +157,5 @@ ul, a {
     padding: 20px;
     text-align: center;
     font-size: 20px;
-    font-weight: bold;
     color: #e5e7eb;
 }
